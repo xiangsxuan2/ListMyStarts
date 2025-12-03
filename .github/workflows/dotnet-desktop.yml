@@ -1,68 +1,62 @@
-name: C# Star List Generator
+name: GitHub Star List Generator (Linux)
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 12 * * *'  # 每天12点运行
+    - cron: '0 12 * * *'  # 每天 UTC 时间 12:00 运行
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
-  generate-star-list:
-    runs-on: windows-latest
+  generate-stars:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # 允许写入仓库
     
     steps:
-    - name: Checkout repository
+    - name: Checkout code
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0
-
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
     - name: Setup .NET 8
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
-
-    - name: Restore dependencies
-      run: dotnet restore ListMyStarts/ListMyStarts.csproj
-
-    - name: Build project
-      run: dotnet build ListMyStarts/ListMyStarts.csproj --configuration Release --no-restore
-
-    - name: Run application
-      run: |
-        cd ListMyStarts
-        dotnet run --configuration Release --no-build
+    
+    - name: Build and run
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    - name: Debug - Check generated file
-      shell: bash
       run: |
-        echo "Checking generated file..."
-        if [ -f "My Starts.md" ]; then
-          echo "✅ File exists"
-          echo "First 5 lines:"
-          head -5 "My Starts.md"
-        else
-          echo "❌ File not found"
-          ls -la
-          exit 1
-        fi
-
-    - name: Commit and push changes
-      shell: bash  # 使用 bash shell
+        # 显示环境信息
+        echo "Working directory: $(pwd)"
+        echo "OS: $(uname -a)"
+        
+        # 构建项目
+        dotnet build ListMyStarts --configuration Release
+        
+        # 运行程序
+        cd ListMyStarts
+        dotnet run --configuration Release --no-build
+    
+    - name: Commit and push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --local user.email "xiangshouxuan@foxmail.com"
-        git config --local user.name "xiangsxuan"
-        git pull origin main
+        # 配置 Git
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # 添加文件
+        git add .
         
         # 检查是否有更改
-        git add .
         if git diff --cached --quiet; then
           echo "No changes to commit"
-        else
-          git commit -m ":sparkles: Update star list - $(date '+%Y-%m-%d %H:%M:%S')"
-          git push origin main
-          echo "✅ Changes pushed successfully"
+          exit 0
         fi
+        
+        # 提交并推送
+        git commit -m "📄 Update star list - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push origin main
