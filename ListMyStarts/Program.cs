@@ -28,18 +28,12 @@ foreach (var item in starred)
 }
 Console.WriteLine("文件内容:"+mdStr?.ToString() ?? "");
 // 写入到源码目录的md文件
-var path = GetFilePath();// 获取当前源码文件路径
-var dir = Path.GetDirectoryName(Path.GetDirectoryName(path));
-var mdfile = Path.Combine(dir, "My Starts.md");//跳转两层目录找到源代码里的md文件,这方法可能不通用
+// 获取当前源码文件路径, 这个方法不确定可靠,依赖于项目编译输出目录结构
+var projectDir = Directory.GetParent(AppContext.BaseDirectory).Parent.Parent.Parent.Parent.FullName;
+var mdfile = Path.Combine(projectDir, "My Starts.md");
 Console.WriteLine("文件位置:" + mdfile);
 File.WriteAllText(mdfile, mdStr?.ToString() ?? ""
                 , new UTF8Encoding(false)); // UTF8默认包含Bom, 会在开头多个/FEFF标志,
                                             // 影响md解析, 构造传false取消这个标志
 
 Console.WriteLine(mdStr?.ToString() ?? "");
-
-//调用源码路径
-static string GetFilePath([CallerFilePath] string path = null)
-{
-    return path;
-}
