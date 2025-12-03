@@ -88,5 +88,5 @@ jobs:
           git pull
           git add .
           git commit -m ":sparkles: Add generated repo.md file"
-          git remote set-url origin https://github.com/xiangsxuan2025/april-github-star-list.git
+          git remote set-url origin https://github.com/xiangsxuan2025/ListMyStarts.git
           git push origin main
