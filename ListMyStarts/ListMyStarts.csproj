@@ -11,4 +11,10 @@
     <PackageReference Include="Octokit" Version="14.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="My Starts.md">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
