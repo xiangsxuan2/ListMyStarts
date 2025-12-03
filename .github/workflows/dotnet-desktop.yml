@@ -59,4 +59,4 @@ jobs:
         
         # 提交并推送
         git commit -m "📄 Update star list - $(date +'%Y-%m-%d %H:%M:%S')"
-        git push origin main
+        git push origin master
