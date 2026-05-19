@@ -369,7 +369,7 @@
 367. [CrossPlatformDiskTest](https://github.com/maxim-saplin/CrossPlatformDiskTest)	[Windows, macOS and Android storage (HDD, SSD, RAM) speed testing/performance benchmarking appWindows, macOS and Android storage (HDD, SSD, RAM) speed testing/performance benchmarking app]
 368. [SwitchHosts](https://github.com/oldj/SwitchHosts)	[Switch hosts quickly!Switch hosts quickly!]
 369. [GitHub520](https://github.com/521xueweihan/GitHub520)	[:kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）:kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）]
-370. [RunCat365](https://github.com/Kyome22/RunCat365)	[A cute running cat animation on your windows taskbar.A cute running cat animation on your windows taskbar.]
+370. [RunCat365](https://github.com/runcat-dev/RunCat365)	[A cute running cat animation on your windows taskbar.A cute running cat animation on your windows taskbar.]
 371. [Core2D](https://github.com/wieslawsoltes/Core2D)	[A multi-platform data driven 2D diagram editor.A multi-platform data driven 2D diagram editor.]
 372. [Towel](https://github.com/ZacharyPatten/Towel)	[Throw in the towel.Throw in the towel.]
 373. [DevToys](https://github.com/DevToys-app/DevToys)	[A Swiss Army knife for developers.A Swiss Army knife for developers.]
