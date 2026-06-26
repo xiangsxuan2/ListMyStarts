@@ -53,7 +53,7 @@
 51. [awesome-design-md](https://github.com/VoltAgent/awesome-design-md)	[A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.]
 52. [LLPlayer](https://github.com/umlx5h/LLPlayer)	[The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!]
 53. [cc-src-learning](https://github.com/mylxsw/cc-src-learning)	[透过 Claude Code 的源码，我们学到了什么？透过 Claude Code 的源码，我们学到了什么？]
-54. [openclaw.net](https://github.com/clawdotnet/openclaw.net)	[Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)Self-hosted OpenClaw gateway + agent runtime in .NET (NativeAOT-friendly)]
+54. [openclaw.net](https://github.com/clawdotnet/openclaw.net)	[Self-hosted Personal AI + agent runtime in .NET (NativeAOT-friendly)Self-hosted Personal AI + agent runtime in .NET (NativeAOT-friendly)]
 55. [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis)	[微信4.x数据解密并生成年度总结，高仿微信，支持实时更新，导出聊天记录，朋友圈等大量便捷功能微信4.x数据解密并生成年度总结，高仿微信，支持实时更新，导出聊天记录，朋友圈等大量便捷功能]
 56. [m3u8-downloader](https://github.com/llychao/m3u8-downloader)	[ 一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。 一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。]
 57. [dupeguru](https://github.com/arsenetar/dupeguru)	[Find duplicate filesFind duplicate files]
