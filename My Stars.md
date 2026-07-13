@@ -409,7 +409,7 @@
 407. [desktopPet](https://github.com/Adrianotiger/desktopPet)	[Remembering the lovely eSheep (stray sheep) from 1995 - Remembering the lovely eSheep (stray sheep) from 1995 - ]
 408. [Generative-AI-for-beginners-dotnet](https://github.com/microsoft/Generative-AI-for-beginners-dotnet)	[Five lessons, learn how to really apply AI to your .NET ApplicationsFive lessons, learn how to really apply AI to your .NET Applications]
 409. [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)	[21 Lessons, Get Started Building with Generative AI 21 Lessons, Get Started Building with Generative AI ]
-410. [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)	[12 Lessons to Get Started Building AI Agents12 Lessons to Get Started Building AI Agents]
+410. [ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)	[18 Lessons to Get Started Building AI Agents18 Lessons to Get Started Building AI Agents]
 411. [quartznet](https://github.com/quartznet/quartznet)	[Quartz Enterprise Scheduler .NETQuartz Enterprise Scheduler .NET]
 412. [YamlDotNet](https://github.com/aaubry/YamlDotNet)	[YamlDotNet is a .NET library for YAMLYamlDotNet is a .NET library for YAML]
 413. [gitingest](https://github.com/coderamp-labs/gitingest)	[Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase ]
