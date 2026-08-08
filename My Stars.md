@@ -296,7 +296,7 @@
 294. [NETworkManager](https://github.com/BornToBeRoot/NETworkManager)	[A powerful open-source tool for managing networks and troubleshooting network problems!A powerful open-source tool for managing networks and troubleshooting network problems!]
 295. [serilog](https://github.com/serilog/serilog)	[Simple .NET logging with fully-structured eventsSimple .NET logging with fully-structured events]
 296. [blockchain](https://github.com/dvf/blockchain)	[A simple Blockchain in PythonA simple Blockchain in Python]
-297. [ImageSharp](https://github.com/SixLabors/ImageSharp)	[:camera: A modern, cross-platform, 2D Graphics library for .NET:camera: A modern, cross-platform, 2D Graphics library for .NET]
+297. [ImageSharp](https://github.com/SixLabors/ImageSharp)	[A modern, cross-platform, 2D Graphics library for .NETA modern, cross-platform, 2D Graphics library for .NET]
 298. [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)	[:honeybee: A collection of awesome .NET core libraries, tools, frameworks and software:honeybee: A collection of awesome .NET core libraries, tools, frameworks and software]
 299. [ChoETL](https://github.com/Cinchoo/ChoETL)	[ETL framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml, Avro formatted files)ETL framework for .NET (Parser / Writer for CSV, Flat, Xml, JSON, Key-Value, Parquet, Yaml, Avro formatted files)]
 300. [VpnHood](https://github.com/vpnhood/VpnHood)	[Undetectable, Fast,  Cross-Platform, Free VPNUndetectable, Fast,  Cross-Platform, Free VPN]
