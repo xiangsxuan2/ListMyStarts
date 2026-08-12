@@ -247,7 +247,7 @@
 245. [octokit.net](https://github.com/octokit/octokit.net)	[A GitHub API client library for .NET A GitHub API client library for .NET ]
 246. [F-Sharp](https://github.com/TheAlgorithms/F-Sharp)	[All Algorithms implemented in F#All Algorithms implemented in F#]
 247. [Wechatsync](https://github.com/wechatsync/Wechatsync)	[一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力]
-248. [sniffnet](https://github.com/GyulyVGC/sniffnet)	[Comfortably monitor your Internet traffic 🕵️‍♂️Comfortably monitor your Internet traffic 🕵️‍♂️]
+248. [sniffnet](https://github.com/GyulyVGC/sniffnet)	[Comfortably monitor your network traffic 🕵️‍♂️Comfortably monitor your network traffic 🕵️‍♂️]
 249. [void](https://github.com/voideditor/void)	[No description available.]
 250. [Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)	[:mag: Quick file search & app launcher for Windows with community-made plugins:mag: Quick file search & app launcher for Windows with community-made plugins]
 251. [Polly](https://github.com/App-vNext/Polly)	[Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.]
