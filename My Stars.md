@@ -1,6 +1,6 @@
 
 # /home/runner/work/ListMyStarts/ListMyStarts/My Stars.md
-1. [dsh-web](https://github.com/zhu1090093659/dsh-web)	[DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）]
+1. [dsh-web](https://github.com/zhu1090093659/dsh-web)	[DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发]
 2. [dsh-pocket](https://github.com/shaobeichen/dsh-pocket)	[把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)]
 3. [deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book)	[DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML免费下载]
 4. [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)	[DeepSeek Harness: Everything is a Plugin.DeepSeek Harness: Everything is a Plugin.]
@@ -64,7 +64,7 @@
 62. [LLPlayer](https://github.com/umlx5h/LLPlayer)	[The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!]
 63. [cc-src-learning](https://github.com/mylxsw/cc-src-learning)	[透过 Claude Code 的源码，我们学到了什么？透过 Claude Code 的源码，我们学到了什么？]
 64. [openclaw.net](https://github.com/clawdotnet/openclaw.net)	[Self-hosted Personal AI + agent runtime in .NET (NativeAOT-friendly)Self-hosted Personal AI + agent runtime in .NET (NativeAOT-friendly)]
-65. [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis)	[微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出聊天记录，朋友圈，收藏等大量便捷功能微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出聊天记录，朋友圈，收藏等大量便捷功能]
+65. [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis)	[微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出和修改聊天记录，朋友圈，收藏，自动回复等大量便捷功能微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出和修改聊天记录，朋友圈，收藏，自动回复等大量便捷功能]
 66. [m3u8-downloader](https://github.com/llychao/m3u8-downloader)	[ 一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。 一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。]
 67. [dupeguru](https://github.com/arsenetar/dupeguru)	[Find duplicate filesFind duplicate files]
 68. [czkawka](https://github.com/qarmin/czkawka)	[Multi functional app to find duplicates, empty folders, similar images etc.Multi functional app to find duplicates, empty folders, similar images etc.]
