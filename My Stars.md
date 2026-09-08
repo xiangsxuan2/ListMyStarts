@@ -422,7 +422,7 @@
 420. [YamlDotNet](https://github.com/aaubry/YamlDotNet)	[YamlDotNet is a .NET library for YAMLYamlDotNet is a .NET library for YAML]
 421. [gitingest](https://github.com/coderamp-labs/gitingest)	[Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase ]
 422. [it-tools](https://github.com/CorentinTh/it-tools)	[Collection of handy online tools for developers, with great UX. Collection of handy online tools for developers, with great UX. ]
-423. [newsnow](https://github.com/ourongxing/newsnow)	[Elegant reading of real-time and hottest newsElegant reading of real-time and hottest news]
+423. [newsnow](https://github.com/newsnext/newsnow)	[Elegant reading of real-time and hottest newsElegant reading of real-time and hottest news]
 424. [awesome-dot-net-performance](https://github.com/adamsitnik/awesome-dot-net-performance)	[A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors. Inspired by awesome-... stuff.]
 425. [Unigram](https://github.com/UnigramDev/Unigram)	[Telegram for WindowsTelegram for Windows]
 426. [Avalonia.IconPacks](https://github.com/ahopper/Avalonia.IconPacks)	[Import of Visual Studio image library and MahApps.Metro.IconPacks for AvaloniaImport of Visual Studio image library and MahApps.Metro.IconPacks for Avalonia]
