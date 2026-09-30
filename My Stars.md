@@ -18,7 +18,7 @@
 16. [cc-switch](https://github.com/farion1231/cc-switch)	[A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.ioA cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io]
 17. [CodexGuide](https://github.com/freestylefly/CodexGuide)	[CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南CodexGuide：面向全球初学者、创作者、开发者与团队的 Codex 实践指南]
 18. [Magic-PH](https://github.com/magicoflolis/Magic-PH)	[A video downloader for various adult websitesA video downloader for various adult websites]
-19. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)	[DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.]
+19. [DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)	[A reliable coding agent for complex software engineering tasks.A reliable coding agent for complex software engineering tasks.]
 20. [codex-orange-book](https://github.com/alchaincyf/codex-orange-book)	[OpenAI Codex: The Complete Guide · 橙皮书系列 · GPT-5.5 时代的 AI 编程实战手册OpenAI Codex: The Complete Guide · 橙皮书系列 · GPT-5.5 时代的 AI 编程实战手册]
 21. [nuwa-skill](https://github.com/alchaincyf/nuwa-skill)	[你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.]
 22. [Kami](https://github.com/tw93/Kami)	[👩‍🚒 Good content deserves good paper.👩‍🚒 Good content deserves good paper.]
