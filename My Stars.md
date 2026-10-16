@@ -71,7 +71,7 @@
 69. [LLPlayer](https://github.com/umlx5h/LLPlayer)	[The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!]
 70. [cc-src-learning](https://github.com/mylxsw/cc-src-learning)	[透过 Claude Code 的源码，我们学到了什么？透过 Claude Code 的源码，我们学到了什么？]
 71. [openclaw.net](https://github.com/clawdotnet/openclaw.net)	[Self-hosted Enterprise and Personal  AI + agent runtime in .NET (NativeAOT-friendly)Self-hosted Enterprise and Personal  AI + agent runtime in .NET (NativeAOT-friendly)]
-72. [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis)	[微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出和修改聊天记录，朋友圈，收藏，自动回复等大量便捷功能微信4.x数据解密并生成年度总结，高仿微信，实时更新，导出和修改聊天记录，朋友圈，收藏，自动回复等大量便捷功能]
+72. [WeChatDataAnalysis](https://github.com/LifeArchiveProject/WeChatDataAnalysis)	[微信 4.x 数据库解密与分析，支持实时更新、聊天记录与朋友圈导出、年度总结。微信 4.x 数据库解密与分析，支持实时更新、聊天记录与朋友圈导出、年度总结。]
 73. [m3u8-downloader](https://github.com/llychao/m3u8-downloader)	[ 一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。 一个M3U8 视频下载(M3U8 downloader)工具。跨平台: 提供windows、linux、mac三大平台可执行文件,方便直接使用。]
 74. [dupeguru](https://github.com/arsenetar/dupeguru)	[Find duplicate filesFind duplicate files]
 75. [czkawka](https://github.com/qarmin/czkawka)	[Multi functional app to find duplicates, empty folders, similar images etc.Multi functional app to find duplicates, empty folders, similar images etc.]
